@@ -24,7 +24,7 @@ To run the simulation on your local machine:
 1. Ensure you have MATLAB installed.
 2. Clone this repository: `git clone <repository_url>`
 3. Navigate to the repository directory: `cd Aircraft-Trajectory-Simulation`
-4. Open the MATLAB script: `main_simulation_script.m`
+4. Open the MATLAB script: `AircraftTrajectorySim.m`
 5. Run the script in MATLAB.
 
 ## Dependencies
